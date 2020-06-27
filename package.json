@@ -1,0 +1,23 @@
+{
+  "name": "simple-calculator",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "Busayomi Odukoya",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-core": "^3.5.0",
+    "karma": "^5.1.0",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-cli": "^2.0.0",
+    "karma-coverage": "^2.0.2",
+    "karma-jasmine": "^3.3.1",
+    "karma-jasmine-matchers": "^4.0.2",
+    "puppeteer": "^4.0.1",
+    "istanbul": "^0.4.5"
+  },
+  "dependencies": {}
+}
