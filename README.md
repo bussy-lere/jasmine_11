@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/bussy-lere/jasmine_11.svg?branch=master)](https://travis-ci.org/bussy-lere/jasmine_11)
